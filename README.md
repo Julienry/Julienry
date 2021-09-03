@@ -1,8 +1,6 @@
-<div>
-
-  <h1><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="30"> Bem-vindo <img     src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="30"></h1>
+<h1 align="center"><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="30"> Bem-vindo <img     src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="30"></h1>
   
-</div>
+
 
 <div>
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Julienry&theme=algolia&show_icons=true))](https://github.com/Julienry/github-readme-stats"/>
