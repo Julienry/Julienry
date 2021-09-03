@@ -8,11 +8,10 @@
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julienry&&layout=compact&hide=shell&theme=algolia"/>
 </div>
 <br>
-
 <div  align="center">
   
   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-  
-
+<br>
+<a href="https://www.linkedin.com/in/julienry/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
