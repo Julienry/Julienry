@@ -10,7 +10,7 @@
 <br>
 <div  align="center">
   
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/Julienry/Julienry/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Julienry/Julienry/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 <br>
