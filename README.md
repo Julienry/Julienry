@@ -2,7 +2,7 @@
   
 
 
-<div>
+<div align="center">
   <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Julienry&theme=algolia&show_icons=true))](https://github.com/Julienry/github-readme-stats"/>
   
   <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julienry&&layout=compact&hide=shell&theme=algolia"/>
